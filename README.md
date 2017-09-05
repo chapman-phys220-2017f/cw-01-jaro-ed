@@ -1,6 +1,6 @@
 # PHYS220 CW 1
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** _Jarod Penniman, Jared Love_
 
 ## Specification
 
@@ -16,7 +16,7 @@ Complete the following exercises, saving your solutions in the indicated files. 
 
 With your group, analyze in this section what you found useful about this assignment in your own words. Include any questions or comments that you may have for the instructor.
 
-**CHANGEME**
+**Struggling through how to use vim and create files from the command line helped us gain familiarity with the process of creating code for this class.**
 
 ## Honor Pledge
 
@@ -24,7 +24,8 @@ I pledge that all the work in this repository is our own with only the following
 
 * Content of starter files supplied by the instructor;
 * Code borrowed from another source, documented with correct attribution in the code and summarized here.
+    -askubuntu.com
 
 Signed,
 
-**YOURNAME**
+**JAROD PENNIMAN, JARED LOVE**
